@@ -1,0 +1,6 @@
+﻿  game.c
+F:\C\game\game.c(27,10): warning C4013: “printf”未定义；假设外部返回 int
+F:\C\game\game.c(56,8): warning C4013: “scanf”未定义；假设外部返回 int
+F:\C\game\game.c(80,11): warning C4013: “rand”未定义；假设外部返回 int
+F:\C\game\game.c(111): warning C4715: “Iswin”: 不是所有的控件路径都返回值
+  game.vcxproj -> F:\C\game\Debug\game.exe
